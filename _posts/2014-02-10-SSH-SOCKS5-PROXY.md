@@ -9,7 +9,7 @@ categories: git
 ssh功能强大，可作为SOCKS5代理，只要你能用ssh登录远端Linux主机，就能将远端Linux主机当作SOCKS5代理，如果远端Linux主机在国外，那么就能翻越GFW，访问Youtube.
 
 参考:[SSH SOCKS5 Proxy](http://people.arsc.edu/~murakami/SSH_SOCKS5_Proxy/)
-[使用ssh正向连接、反向连接、做socks代理的方法](http://dzmailbox.blog.163.com/blog/static/120534385201232642637847/) 
+,  [使用ssh正向连接、反向连接、做socks代理的方法](http://dzmailbox.blog.163.com/blog/static/120534385201232642637847/) 
 
 * **本地端是Linux**
 ```
