@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Setup "
+title:  "建立GitHub Pages"
 date:   2014-01-01 15:25:02
 categories: git 
 tags: [git, github-pages]
