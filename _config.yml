@@ -3,7 +3,6 @@
 permalink: /:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-pygments: true
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
@@ -16,8 +15,10 @@ author :
   github : roothoo	 
   twitter : username
   feedburner : feedname
-markdown: kramdown
-#markdown: redcarpet
+#markdown: kramdown
+markdown: redcarpet
+pygments: true
+
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
 # Most places will/should use BASE_PATH to make the urls

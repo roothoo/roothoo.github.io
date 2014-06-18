@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "jeklly github"
+title:  "Jeklly Github"
 date:   2014-06-18 15:25:02
 categories: web 
 tags: [jeklly, git]
@@ -13,9 +13,11 @@ tags: [jeklly, git]
 markdown: kramdown
 
 #使用disqus评论
-#设置disqus帐号. 
-#disqus默认有广告(dicovery box), 在 http://USERNAME.disqus.com/admin/settings/页面，将"discovery :show links to ...."去掉勾选 
+#设置disqus帐号(需要先在disqus注册)
       short_name : roothoo 
+
+#disqus默认有广告(dicovery box), 在 http://USERNAME.disqus.com/admin/settings/页面，
+#将"discovery :show links to ...."去掉勾选,即可去除广告
   comments :
     provider : disqus
     disqus : 
