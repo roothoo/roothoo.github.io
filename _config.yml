@@ -82,8 +82,8 @@ JB :
   #
   comments :
     provider : disqus
-    disqus : false
-      short_name : jekyllbootstrap
+    disqus : 
+      short_name : roothoo 
     livefyre :
       site_id : 123
     intensedebate :
