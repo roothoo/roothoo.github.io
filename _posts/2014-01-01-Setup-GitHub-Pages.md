@@ -10,7 +10,8 @@ tags: [git, github-pages]
 1.  注册github帐号，在github.com新建一个代码仓库(repository)，名称为***username***.github.io，注意，***username***必须为你的github帐号的用户名.此处使用`roothoo.github.io`.
 
 2.  安装git软件
-在Debian系统下，输入git安装命令:`sudo apt-get install git`.
+在Debian系统下，输入git安装命令:`sudo apt-get install git`.  
+
 配置github帐号：
 
 ~~~ 
